@@ -98,7 +98,7 @@ function sendEmail(event) {
     emailjs.send("service_jw2ma5e", "template_exvc36b", {
         from_name: name,
         from_email: email,
-        to_email: "your_email_address@gmail.com",
+        to_email: "yank300001@gmail.com",
         subject: subject,
         message: message,
         contact: contact,
